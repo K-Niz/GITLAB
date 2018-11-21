@@ -7,5 +7,5 @@ void main(){
 	{
 		ans=ans+y;
 	}
-	printf("answer %d\n",y);
+	printf("answer %d\n",x);
 }
